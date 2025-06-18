@@ -1,5 +1,5 @@
 ﻿Client_Num,Customer_Age,Gender,Dependent_Count,Education_Level,Marital_Status,state_cd,Zipcode,Car_Owner,House_Owner,Personal_loan,contact,Customer_Job,Income,Cust_Satisfaction_Score
-963607849,42,F,3,Uneducated,Married,CA,91750,no,no,yes,cellular,Govt,30574,1
+963607849,42,F,3,Uneducated,Married,CA,91750,no,no,yes,cellular,Govt,32074,1
 932954954,62,F,0,High School,Unknown,NY,91750,yes,no,no,cellular,Selfemployeed,57679,2
 961650885,47,F,3,Doctorate,Married,NJ,91750,no,no,no,unknown,Blue-collar,152263,1
 917695309,49,M,5,Graduate,Married,TX,91750,no,no,no,cellular,Businessman,43653,4
